@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Washboard Incident: Unanswered Questions"
+title: "The Washboard Incident"
 date:   2024-09-23
 ---
 
