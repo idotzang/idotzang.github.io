@@ -9,6 +9,7 @@ How jazz singer Martha Ellis, allegedly suffering from some kind of “mental br
 was shot by mysterious men in grey suits outside the Washboard Jazz Club. 
 The official story is that she had become a danger to herself and others, but if you ask me, the pieces don’t add up.
 
+![The Washboard]({{site.url}}/images/washboard.png)
 Let’s start with Martha Ellis. 
 The media paints her as a troubled artist, 
 prone to emotional instability, who tragically lost control on stage. 
