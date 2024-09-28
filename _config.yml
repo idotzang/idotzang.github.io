@@ -22,8 +22,6 @@ title: Whispers in the Fog
 email: witf.532@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The contents of Whispers in the Fog are for informational purposes only—unless, of course, you’re already tangled in the city’s web of lies, in which case, welcome aboard. 
-  We are not responsible for any mysterious disappearances, blackouts, or spontaneous encounters with shadowy figures that may occur after reading. 
-  If your houseplants start whispering to you or you find cryptic symbols burned into your walls, please consult a professional (or maybe just move). 
   Any resemblance to actual conspiracies, living or undead, is purely coincidental… or is it? Read at your own risk, because once you see the truth, there’s no unseeing it.
 domain: "idotzang.github.io"
 baseurl: ""
@@ -33,6 +31,8 @@ github_username:  witf_532
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 
