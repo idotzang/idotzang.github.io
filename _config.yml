@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The contents of Whispers in the Fog are for informational purposes only—unless, of course, you’re already tangled in the city’s web of lies, in which case, welcome aboard. 
   Any resemblance to actual conspiracies, living or undead, is purely coincidental… or is it? Read at your own risk, because once you see the truth, there’s no unseeing it.
 domain: "idotzang.github.io"
-baseurl: ""
+baseurl: "/witf"
 url: "https://idotzang.github.io/"
 twitter_username: witf_532
 github_username:  witf_532
