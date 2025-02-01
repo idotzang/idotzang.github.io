@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are you real?"
+title: "Are You Real?"
 date:   2025-01-15
 ---
 
